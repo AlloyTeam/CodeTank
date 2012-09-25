@@ -1,6 +1,6 @@
 CodeTank 代码坦克
 =================
-全世界Javascript程序员的在线编程对战游戏平台
+全世界首个Javascript程序员的在线编程对战游戏平台
 
 By [AlloyTeam](http://www.AlloyTeam.com/)
 
